@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amran Hossain</h1>
+<h1 align="center">Hi👋, I'm Amran Hossain</h1>
 <h3 align="center">Just another Bangladeshi trying to center a div… Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amran13&label=Profile%20views&color=0e75b6&style=flat" alt="amran13" /> </p>
